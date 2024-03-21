@@ -1,2 +1,2 @@
 Here are some of my MongoDB assignments & implementation of the codes in PYMONGO
-THANKS FOR VISITING.
+thanks for visitng.
